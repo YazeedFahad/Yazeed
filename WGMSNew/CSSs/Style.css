@@ -1,0 +1,39 @@
+
+.ab{
+        text-decoration: none;
+        color: white;
+        margin-right: 30px;
+       
+
+    
+
+}
+.logo{
+    text-decoration: none;
+        color: white;
+        font-size: 30px;
+        text-transform: uppercase;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px;
+    
+}
+header ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+header ul li a{
+    padding: 6px 15px;
+    border-radius: 20px;
+}
+header ul li a:hover{
+    background: white;
+    color: #151320;
+}
+
